@@ -33,35 +33,25 @@ This project was developed as my Final Year Project for the Bachelor of Engineer
 
 ## 📂 Project Structure
 
-```
 project/
 │
-├── dataset/
-├── models/
-├── runs/
 ├── images/
+│   ├── input.png
+│   ├── output.png
+│
+├── results/
+│   ├── yolo_pr_curve.png
+│   ├── yolo_confusion_matrix.png
+│   ├── cnn_accuracy.png
+│   ├── cnn_loss.png
+│
 ├── predict.py
 ├── train.py
 ├── requirements.txt
 ├── README.md
-└── best.pt
-```
+└── .gitignore
 
----
 
-## 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/kidney-stone-detection.git
-```
-
-Move into the project directory
-
-```bash
-cd kidney-stone-detection
-```
 
 Install dependencies
 
@@ -105,9 +95,31 @@ Add screenshots of your prediction results here.
 
 Example:
 
-![Prediction](images/output.png)
+## 📷 Sample Outputs
 
----
+### Input CT Image
+![Input](<img width="956" height="1192" alt="KS552" src="https://github.com/user-attachments/assets/3c3290d8-de4f-4f3a-a497-6cbddbe9a6a8" />)
+
+### Kidney Stone Detection
+![Output](<img width="956" height="1192" alt="KS552" src="https://github.com/user-attachments/assets/c3870e71-08f6-44a5-bd1e-30c4c275e6c2" />)
+
+## 🪨 Cropped Kidney Stone Images
+
+### Sample 1
+![Crop 1](<img width="30" height="34" alt="KS552_stone_1" src="https://github.com/user-attachments/assets/d58abb21-6c68-4db7-a426-bb439b0a90f6" />
+)
+
+
+### YOLO Training Results
+![YOLO Results](<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/dde4c330-02c6-4342-a2c5-a9db0b93a397" />
+)
+
+## 💻 Terminal Output
+
+![Terminal Output](<img width="1920" height="1024" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/99b13af7-00d9-4c58-8a69-9bc853100851" />
+)
+
+
 
 ## 📚 Future Improvements
 
@@ -122,6 +134,5 @@ Example:
 
 **Aarthi A**
 
-LinkedIn: https://www.linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/aarthi-alagesan2004/
 
-GitHub: https://github.com/yourusername
