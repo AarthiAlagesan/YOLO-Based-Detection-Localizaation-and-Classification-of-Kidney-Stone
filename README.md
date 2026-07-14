@@ -1,4 +1,4 @@
-# YOLO-Based Detection, Localization, and Classification of Kidney Stones from CT Images
+# YOLO-Based Detection, Localization, and Classification of Kidney Stones from CT Scan Images
 
 ## 📌 Overview
 
