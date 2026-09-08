@@ -101,11 +101,9 @@ Example:
 
 ![Input CT Image](https://github.com/user-attachments/assets/3c3290d8-de4f-4f3a-a497-6cbddbe9a6a8)
 
-### Kidney Stone Detection(Output)
+### Kidney Stone Detection (Output)
 
-![Kidney Stone Detection](<img width="956" height="1192" alt="KS552" src="https://github.com/user-attachments/assets/f75f1263-6302-4bef-8ba1-65e5814430ac" />
-)
-
+<img width="956" height="1192" alt="Kidney Stone Detection Output" src="https://github.com/user-attachments/assets/f75f1263-6302-4bef-8ba1-65e5814430ac" />
 ## 🪨 Cropped Kidney Stone Images
 
 ### Sample 1
