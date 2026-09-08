@@ -103,7 +103,8 @@ Example:
 
 ### Kidney Stone Detection(Output)
 
-![Kidney Stone Detection](https://github.com/user-attachments/assets/c3870e71-08f4-44a5-bd1e-30c4c275e6c2)
+![Kidney Stone Detection](<img width="956" height="1192" alt="KS552" src="https://github.com/user-attachments/assets/f75f1263-6302-4bef-8ba1-65e5814430ac" />
+)
 
 ## 🪨 Cropped Kidney Stone Images
 
