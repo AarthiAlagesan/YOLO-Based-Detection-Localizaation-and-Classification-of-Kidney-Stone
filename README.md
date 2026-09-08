@@ -104,7 +104,6 @@ Example:
 ### Kidney Stone Detection(Output)
 
 ![Kidney Stone Detection](https://github.com/user-attachments/assets/c3870e71-08f4-44a5-bd1e-30c4c275e6c2)
-
 ## 🪨 Cropped Kidney Stone Images
 
 ### Sample 1
