@@ -98,26 +98,26 @@ Example:
 ## 📷 Sample Outputs
 
 ### Input CT Image
-![Input](<img width="956" height="1192" alt="KS552" src="https://github.com/user-attachments/assets/3c3290d8-de4f-4f3a-a497-6cbddbe9a6a8" />)
+
+![Input CT Image](https://github.com/user-attachments/assets/3c3290d8-de4f-4f3a-a497-6cbddbe9a6a8)
 
 ### Kidney Stone Detection
-![Output](<img width="956" height="1192" alt="KS552" src="https://github.com/user-attachments/assets/c3870e71-08f6-44a5-bd1e-30c4c275e6c2" />)
+![Output]
+![Kidney Stone Detection](https://github.com/user-attachments/assets/c3870e71-08f4-44a5-bd1e-30c4c275e6c2)
 
 ## 🪨 Cropped Kidney Stone Images
 
 ### Sample 1
-![Crop 1](<img width="30" height="34" alt="KS552_stone_1" src="https://github.com/user-attachments/assets/d58abb21-6c68-4db7-a426-bb439b0a90f6" />
-)
 
+![Cropped Kidney Stone](https://github.com/user-attachments/assets/d58abb21-6c68-4db7-a426-bb439b0a90f6)
 
 ### YOLO Training Results
-![YOLO Results](<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/dde4c330-02c6-4342-a2c5-a9db0b93a397" />
-)
+
+![YOLO Training Results](https://github.com/user-attachments/assets/dde4c330-02c6-4342-a2c5-a9db0b93a397)
 
 ## 💻 Terminal Output
 
-![Terminal Output](<img width="1920" height="1024" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/99b13af7-00d9-4c58-8a69-9bc853100851" />
-)
+![Terminal Output](https://github.com/user-attachments/assets/99b13af7-00d9-4c58-8a69-9bc853100851)
 
 
 
